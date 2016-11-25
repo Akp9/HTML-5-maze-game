@@ -1,2 +1,2 @@
 # HTML-5-maze-game
-HTML 5 maze game provided by Treehouse.
+Created while following the html5 game tutorial on Treehouse.
